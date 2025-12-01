@@ -13,7 +13,7 @@ Este projeto mostra como é possível criar personagens usando apenas propriedad
 ## 🎨 Demonstração
 Assim que você ativar o **GitHub Pages**, seu Baby Yoda ficará disponível aqui:
 
-👉 **https://seuusuario.github.io/seu-repositorio/**  
+👉 https://thaynaraasilva.github.io/baby-yoda/ 
 
 
 
